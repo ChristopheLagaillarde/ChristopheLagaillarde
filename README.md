@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on python project and machine learning related project
 - 🤔 I’m looking for help with Machine learning 
 - 📫 How to reach me: chrislag94@gmail.com
-- 💬 Ask me about anything philsophy related
+- 💬 Ask me about anything philosophy related
 - 😄 Pronouns: Please avoid using pronoun
 - ⚡ Fun fact: I'm a huge fan of J-pop/Jdrama ...
 
