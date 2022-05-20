@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChristopheLagaillarde/ChristopheLagaillarde/main/thinking.gif" width="400" height="320" />
-
 ## I am a beginner programmer, philosopher and alot more
 - 🌱 I’m currently reading/learning [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - 👯 I’m looking to collaborate on python project and machine learning related project
